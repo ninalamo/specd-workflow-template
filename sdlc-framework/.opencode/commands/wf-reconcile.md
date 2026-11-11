@@ -6,7 +6,7 @@ description: Evaluate the relationships and consistency of project specification
 
 # @wf-reconcile
 
-Invoke the [wf-reconcile skill](../../skills/reconcile/SKILL.md) to evaluate specification consistency.
+Invoke the [wf-reconcile skill](../skills/wf-reconcile/SKILL.md) to evaluate specification consistency.
 
 ## Usage
 

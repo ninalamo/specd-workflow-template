@@ -6,7 +6,7 @@ description: Discover the actual current state of a project through read-only in
 
 # @wf-state
 
-Invoke the [wf-state skill](../../skills/state/SKILL.md) to discover the actual current state of a project.
+Invoke the [wf-state skill](../skills/wf-state/SKILL.md) to discover the actual current state of a project.
 
 ## Usage
 

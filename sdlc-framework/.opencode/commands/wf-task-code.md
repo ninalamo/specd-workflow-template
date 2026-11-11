@@ -6,7 +6,7 @@ description: Create an implementation-ready specification for a coding task (fea
 
 # @wf-task-code
 
-Invoke the [wf-task-code skill](../../skills/task-code/SKILL.md) to create an implementation-ready specification for a coding task.
+Invoke the [wf-task-code skill](../skills/wf-task-code/SKILL.md) to create an implementation-ready specification for a coding task.
 
 ## Usage
 

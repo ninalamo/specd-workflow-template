@@ -6,7 +6,7 @@ description: Establish a new project's foundation from a natural-language projec
 
 # @wf-bootstrap
 
-Invoke the [wf-bootstrap skill](../../skills/bootstrap/SKILL.md) to establish a new project's foundation from a natural-language project description.
+Invoke the [wf-bootstrap skill](../skills/wf-bootstrap/SKILL.md) to establish a new project's foundation from a natural-language project description.
 
 ## Usage
 

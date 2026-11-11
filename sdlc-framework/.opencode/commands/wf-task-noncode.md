@@ -6,7 +6,7 @@ description: Create an implementation-ready specification for a non-coding task 
 
 # @wf-task-noncode
 
-Invoke the [wf-task-noncode skill](../../skills/task-noncode/SKILL.md) to create an implementation-ready specification for a non-coding task.
+Invoke the [wf-task-noncode skill](../skills/wf-task-noncode/SKILL.md) to create an implementation-ready specification for a non-coding task.
 
 ## Usage
 

@@ -6,7 +6,7 @@ description: Manage authorized commits and remote synchronization for work compl
 
 # @wf-commit
 
-Invoke the [wf-commit skill](../../skills/commit/SKILL.md) to commit and push work completed in a task worktree.
+Invoke the [wf-commit skill](../skills/wf-commit/SKILL.md) to commit and push work completed in a task worktree.
 
 ## Usage
 

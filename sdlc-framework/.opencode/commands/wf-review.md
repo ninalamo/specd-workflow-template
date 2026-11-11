@@ -6,7 +6,7 @@ description: Perform independent, evidence-based review of specifications, archi
 
 # @wf-review
 
-Invoke the [wf-review skill](../../skills/review/SKILL.md) to perform an independent, evidence-based review.
+Invoke the [wf-review skill](../skills/wf-review/SKILL.md) to perform an independent, evidence-based review.
 
 ## Usage
 

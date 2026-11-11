@@ -6,13 +6,13 @@ This document explains how to invoke the seven SDLC framework skills via OpenCod
 
 | # | Skill ID | Directory | Command | Purpose |
 |---|----------|-----------|---------|---------|
-| 01 | `wf-bootstrap` | `skills/bootstrap/` | `@wf-bootstrap` | Bootstrap a new project from a natural-language description |
-| 02 | `wf-state` | `skills/state/` | `@wf-state` | Discover the current state of a project (read-only) |
-| 03 | `wf-reconcile` | `skills/reconcile/` | `@wf-reconcile` | Evaluate specification consistency (duplicates, conflicts, overlaps) |
-| 04 | `wf-task-code` | `skills/task-code/` | `@wf-task-code` | Create a coding task specification with test scenarios |
-| 05 | `wf-task-noncode` | `skills/task-noncode/` | `@wf-task-noncode` | Create a non-coding task specification (docs, config, infra) |
-| 06 | `wf-review` | `skills/review/` | `@wf-review` | Perform independent, evidence-based review |
-| 07 | `wf-commit` | `skills/commit/` | `@wf-commit` | Authorized commits and remote synchronization |
+| 01 | `wf-bootstrap` | `skills/wf-bootstrap/` | `@wf-bootstrap` | Bootstrap a new project from a natural-language description |
+| 02 | `wf-state` | `skills/wf-state/` | `@wf-state` | Discover the current state of a project (read-only) |
+| 03 | `wf-reconcile` | `skills/wf-reconcile/` | `@wf-reconcile` | Evaluate specification consistency (duplicates, conflicts, overlaps) |
+| 04 | `wf-task-code` | `skills/wf-task-code/` | `@wf-task-code` | Create a coding task specification with test scenarios |
+| 05 | `wf-task-noncode` | `skills/wf-task-noncode/` | `@wf-task-noncode` | Create a non-coding task specification (docs, config, infra) |
+| 06 | `wf-review` | `skills/wf-review/` | `@wf-review` | Perform independent, evidence-based review |
+| 07 | `wf-commit` | `skills/wf-commit/` | `@wf-commit` | Authorized commits and remote synchronization |
 
 All skills live under:
 `sdlc-framework/.opencode/skills/<skill-id>/SKILL.md`
